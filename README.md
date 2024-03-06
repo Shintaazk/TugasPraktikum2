@@ -1,2 +1,4 @@
-# Pemograman_Web_02
-Berisi tugas tugas praktikum web 02 
+# TugasPraktikum2
+Nama   = Shinta Nur Allyani
+Prodi  = Sistem Informasi 
+Rombel = SI06
